@@ -1,0 +1,3 @@
+crisprone-local.py: a pipeline for de novo prediction of CRISPR-Cas systems. 
+ussage:
+python crisprone-local.py folder-for-the-results id-for-the-results input-sequence
