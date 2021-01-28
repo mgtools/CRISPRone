@@ -29,12 +29,12 @@ optional arguments:
 ```
 
 ## Output files of interest
-```
-output.crt      metaCRT output of identified CRISPRs.
-output-sm.gff   GFF of CRISPR-Cas related features.
-output.plot.spacer      metadata of CRISPR-Cas related features.
-[output-base]/[output-prefix]/spacer/all-spacer.fa      FASTA file of all identified CRISPR spacer sequences.
-```
+| output file    | Description |
+| -------------- | ----------- |
+| output.crt | metaCRT output of identified CRISPRs. |
+| output-sm.gff | GFF of CRISPR-Cas related features. |
+| output.plot.spacer | metadata of CRISPR-Cas related features. |
+| [output-base]/[output-prefix]/spacer/all-spacer.fa | FASTA file of all identified CRISPR spacer sequences. |
 
 ## Citation
 [Quan Zhang and Yuzhen Ye. Not all predicted CRISPR-Cas systems are equal: Isolated cas genes and classes of CRISPR like elements. BMC Bioinformatics, 18:92, 2017](https://www.readcube.com/articles/10.1186%2Fs12859-017-1512-4?author_access_token=Qirj1Fc54XCKXl2D5HFJCm_BpE1tBhCbnbw3BuzI2RO4ZMi96tlS0oMzwlg-pp16kdzldidFLmNumT7rd8h_qbSZ5oHFl3YSgoHGATPEpRriHC-flZ89ve1ZvCelk1nsA5g-3ePZ_RFmWnd1b8Tjyw==)
