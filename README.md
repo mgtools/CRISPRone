@@ -1,6 +1,6 @@
 # CRISPRone - command line version
 
-> *Warning: The command-line version of this software tool was not originally developed for public consumption. Command-line version is provided here to allow interested parties to automate the process rather than relying on the [web-based server](https://omics.informatics.indiana.edu/CRISPRone/).*
+> *Warning: The command-line version of this software tool was not originally developed for public consumption, and **output formats may not be in a friendly human-readable format**. Command-line version is provided here to allow interested parties who may find interest in utilizing the command-line version rather than relying on the [web-based server](https://omics.informatics.indiana.edu/CRISPRone/).*
 
 CRISPRone provides annotation of CRISPR—Cas systems including:
 
