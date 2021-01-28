@@ -20,12 +20,12 @@ Dependencies required to be installed prior to running CRISPRone.
 usage: crisprone-local.py [output-base] [output-prefix] [input-fna] <input-gff> 
 
 required arguments:
-  output-base   Output directory for CRISPRone results.
-  output-prefix Prefix/label for output subdirectories and output files.
-  intput-fna    Path to input FASTA file.
+  [output-base]   Output directory for CRISPRone results.
+  [output-prefix] Prefix/label for output subdirectories and output files.
+  [intput-fna]    Path to input FASTA file.
 
 optional arguments:
-  input-gff     Path to GFF file of intput FASTA file.
+  <input-gff>     Path to GFF file of intput FASTA file.
 ```
 
 ## Citation
