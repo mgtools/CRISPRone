@@ -31,8 +31,7 @@ if len(sys.argv) < 4:
 
 
 cmd=sys.argv[0]
-crisprone="/u/yye/CRISPRpk/CRISPRone/scripts"
-crisprone=os.path.dirname(sys.argv[0])
+crisprone=os.path.dirname(os.path.realpath(__file__))
 print("crisprone " + crisprone)
 if os.path.exists(crisprone + "/local") == False:
    sys.exit("CRISPRone directory not set correctly")
